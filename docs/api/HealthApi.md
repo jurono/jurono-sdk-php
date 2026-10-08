@@ -23,4 +23,3 @@ HealthController_ready
 ```php
 $client->health()->ready(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

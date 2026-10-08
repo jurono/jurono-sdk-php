@@ -235,4 +235,3 @@ Get storage configuration (configured buckets and domains)
 ```php
 $client->adminStorageManagement()->getStorageConfig(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

@@ -55,4 +55,3 @@ Request body schema:
   }
 }
 ```
-

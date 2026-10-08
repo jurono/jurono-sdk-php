@@ -179,4 +179,3 @@ Get real-time analytics
 ```php
 $client->analytics()->realtime(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

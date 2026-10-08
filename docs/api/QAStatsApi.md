@@ -13,4 +13,3 @@ Get own Q&A performance stats (lawyer)
 ```php
 $client->qAStats()->getMyStats(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

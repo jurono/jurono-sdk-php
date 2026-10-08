@@ -107,4 +107,3 @@ Upload organization logo for PDFs
 ```php
 $client->pdfTemplates()->uploadLogo(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

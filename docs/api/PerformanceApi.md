@@ -43,4 +43,3 @@ PerformanceController_tasks
 ```php
 $client->performance()->tasks(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

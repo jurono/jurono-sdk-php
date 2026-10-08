@@ -256,4 +256,3 @@ Secure messaging service health check
 ```php
 $client->securemessaging()->healthCheck(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

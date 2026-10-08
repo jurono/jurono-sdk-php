@@ -75,4 +75,3 @@ Soft delete my lawyer profile
 ```php
 $client->lawyerProfiles()->delete(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

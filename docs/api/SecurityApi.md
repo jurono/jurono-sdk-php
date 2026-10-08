@@ -23,4 +23,3 @@ Receive Reporting API submissions
 ```php
 $client->security()->reportTo(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

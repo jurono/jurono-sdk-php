@@ -234,4 +234,3 @@ Request body schema:
   }
 }
 ```
-

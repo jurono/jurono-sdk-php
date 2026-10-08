@@ -103,4 +103,3 @@ Request body schema:
   }
 }
 ```
-

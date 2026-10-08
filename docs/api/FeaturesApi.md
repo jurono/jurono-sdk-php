@@ -13,4 +13,3 @@ Get release gates and subscription entitlements for the current user
 ```php
 $client->features()->getMyFeatures(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

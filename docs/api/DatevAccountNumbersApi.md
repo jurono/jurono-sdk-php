@@ -107,4 +107,3 @@ Bulk assign account numbers
 ```php
 $client->datevAccountNumbers()->bulkAssign(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

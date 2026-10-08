@@ -214,4 +214,3 @@ Get notification stats for current user
 ```php
 $client->notifications()->getStats(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

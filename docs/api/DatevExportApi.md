@@ -128,4 +128,3 @@ Request body schema:
   }
 }
 ```
-

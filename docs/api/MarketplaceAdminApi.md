@@ -232,4 +232,3 @@ MarketplaceAdminController_getAlerts
 ```php
 $client->marketplaceAdmin()->getAlerts(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

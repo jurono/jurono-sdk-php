@@ -302,4 +302,3 @@ Request body schema:
   }
 }
 ```
-

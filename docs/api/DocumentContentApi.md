@@ -308,4 +308,3 @@ Request body schema:
   }
 }
 ```
-

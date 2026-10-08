@@ -54,4 +54,3 @@ Send email using a template
 ```php
 $client->adminEmail()->sendTemplateEmail(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

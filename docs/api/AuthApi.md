@@ -611,4 +611,3 @@ Clear local Jurono auth cookies before ZITADEL logout redirect
 ```php
 $client->auth()->zitadelOidcLogout(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

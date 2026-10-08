@@ -29,4 +29,3 @@ Request body schema:
   }
 }
 ```
-

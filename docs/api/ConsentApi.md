@@ -34,4 +34,3 @@ Get client IP for consent logging
 ```php
 $client->consent()->getClientIp(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

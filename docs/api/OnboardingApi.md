@@ -203,4 +203,3 @@ Track sample workspace loaded
 ```php
 $client->onboarding()->trackSampleWorkspace(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

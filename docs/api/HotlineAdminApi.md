@@ -82,4 +82,3 @@ Request body schema:
   }
 }
 ```
-

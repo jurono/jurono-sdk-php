@@ -121,4 +121,3 @@ Request body schema:
   }
 }
 ```
-

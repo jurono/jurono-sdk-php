@@ -224,4 +224,3 @@ Accept organization invitation
 ```php
 $client->organizations()->accept(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

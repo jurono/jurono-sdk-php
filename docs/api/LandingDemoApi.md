@@ -39,4 +39,3 @@ Request body schema:
   }
 }
 ```
-

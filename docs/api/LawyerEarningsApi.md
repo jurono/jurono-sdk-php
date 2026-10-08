@@ -47,4 +47,3 @@ Get my Stripe Connect account status
 ```php
 $client->lawyerEarnings()->getConnectStatus(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-

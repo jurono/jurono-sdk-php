@@ -66,4 +66,3 @@ Request body schema:
   }
 }
 ```
-

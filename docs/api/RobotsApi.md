@@ -13,4 +13,3 @@ RobotsController_robots
 ```php
 $client->robots()->robots(mixed $body = null, array $query = [], array $headers = [], array $options = []);
 ```
-
