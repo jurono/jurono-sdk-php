@@ -1,0 +1,8 @@
+{
+  "repository": "jurono/jurono",
+  "commit": "3355c05bee1dc0b2f149602698e9f504c76c8090",
+  "workingTreeSnapshot": true,
+  "snapshotDate": "2026-10-08",
+  "path": "apps/api/public/docs/openapi-public.json",
+  "note": "Public contract snapshot. The generator also exposes route placeholders missing from upstream parameter declarations."
+}

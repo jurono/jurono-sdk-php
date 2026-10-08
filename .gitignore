@@ -1,0 +1,7 @@
+/vendor/
+/dist/
+.env
+.env.*
+__pycache__/
+.phpunit.cache/
+/.phpstan-cache/
